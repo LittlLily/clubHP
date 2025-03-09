@@ -12,7 +12,7 @@ app.use(express.static(path.join(__dirname, 'client/build')));
 
 // すべてのリクエストに対して index.html を返す（React Router 対応）
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'client/public', 'index.html'));
+  res.sendFile(path.join(__dirname, 'client/build', 'index.html'));
 });
 
 app.listen(port, () => {
