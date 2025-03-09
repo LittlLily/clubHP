@@ -17,7 +17,7 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/profile" element={<ProfilePage />} />
-          <Route path="/obog" element={<OBOGProfilePage />} />
+          <Route path="/profile/obog" element={<OBOGProfilePage />} />
           <Route path="/results" element={<ResultPage />} />
           <Route path="/schedule" element={<SchedulePage />} />
         </Routes>

@@ -1,6 +1,7 @@
 // src/pages/ProfilePage.js
 import React, { useEffect, useState } from 'react';
 import { Pie } from 'react-chartjs-2';
+import { Link } from 'react-router-dom';
 import Chart from 'chart.js/auto';
 
 function ProfilePage() {
@@ -65,7 +66,7 @@ function ProfilePage() {
       effectiveYear = effectiveYear - 1;
     }
     // effectiveYear から部員の年齢（ここでは生まれた年と仮定）を引くことで、学年を計算
-    const computedYear = effectiveYear - Number(member.age);
+    const computedYear = effectiveYear - Number(member.generation);
     switch (computedYear) {
       case 1961:
         return "Freshman";
@@ -117,9 +118,10 @@ function ProfilePage() {
     <div id="profile">
       <div className="profile-head">
         <h2 style={{ color: 'rgb(23, 23, 23)', borderBottom: '1px rgb(23, 23, 23) solid' }}>部員紹介</h2>
-        <a href="./kyudo_profile_OBOG.html">
-          <h2>→OBOG等の紹介</h2>
-        </a>
+        <Link to="/profile/obog">
+          <h2>OBOG等の紹介→</h2>
+        </Link>
+
       </div>
       <div style={{ width: '90lvw', display: 'flex', justifyContent: 'space-around', margin: '0 auto' }}>
         <div>
@@ -133,8 +135,8 @@ function ProfilePage() {
         </div>
         <div>
           <div style={{ width: '35lvw', display: 'flex', justifyContent: 'space-around', margin: '0 auto' }}>
-            <h3 style={{ color: 'black'}}>日置流: {countSyamen}名 ({totalParty > 0 ? ((countSyamen / totalParty) * 100).toFixed(2) : 0}%)</h3>
-            <h3 style={{ color: '#006400'}}>小笠原流: {countSyomen}名 ({totalParty > 0 ? ((countSyomen / totalParty) * 100).toFixed(2) : 0}%)</h3>
+            <h3 style={{ color: 'black' }}>日置流: {countSyamen}名 ({totalParty > 0 ? ((countSyamen / totalParty) * 100).toFixed(2) : 0}%)</h3>
+            <h3 style={{ color: '#006400' }}>小笠原流: {countSyomen}名 ({totalParty > 0 ? ((countSyomen / totalParty) * 100).toFixed(2) : 0}%)</h3>
           </div>
           <div style={{ width: '35lvw', margin: '20px auto' }}>
             <Pie data={chartDataParty} />
@@ -157,7 +159,7 @@ function ProfilePage() {
       <div>
         {["Senior", "Junior", "Sophomore", "Freshman"].map(category => (
           <div key={category} className="profile-group">
-            <div className="profile-age">
+            <div className="profile-generation">
               <p>{yearMapping[category]}</p>
             </div>
             <div className="profile-table">

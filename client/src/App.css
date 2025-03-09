@@ -476,20 +476,19 @@ aside {
 }
 
 
-
 /* 部員紹介
 ----------------------------------*/
 #profile {
     margin-top: 165px;
 }
 
-.profile-age p {
+.profile-generation p {
     margin: 0px;
     font-size: 4rem;
 
 }
 
-.profile-age {
+.profile-generation {
     font-family: 'Philosopher', serif;
     display: flex;
     justify-content: center;
