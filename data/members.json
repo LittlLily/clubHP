@@ -1,0 +1,554 @@
+[
+  {
+    "age": "63",
+    "name": "愛澤 絢花",
+    "party": "syomen",
+    "gender": "woman",
+    "subject": "都市生活学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "青島 咲歩",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "医用工学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "今清水 悠翔",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "社会メディア学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "内田 恵瑠",
+    "party": "syomen",
+    "gender": "man",
+    "subject": "原子力安全工学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "岡部 菜々美",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "社会メディア学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "小俣 雄寛",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "情報科学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "川北 理緒奈",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "都市生活学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "川俣 柊太",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "医用工学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "黒田 倫夢",
+    "party": "syomen",
+    "gender": "woman",
+    "subject": "都市生活学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "酒寄 夢麻",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "都市生活学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "佐瀬 芽生",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "建築学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "佐藤 快飛",
+    "party": "syomen",
+    "gender": "man",
+    "subject": "社会メディア学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "孫 小懿",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "情報システム学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "谷井 楽",
+    "party": "syomen",
+    "gender": "man",
+    "subject": "応用化学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "永野 愛美",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "デザインデータ科学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "久和 優真",
+    "party": "syomen",
+    "gender": "man",
+    "subject": "都市工学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "前林 泰知",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "環境経営システム学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "増田 結羽",
+    "party": "syomen",
+    "gender": "woman",
+    "subject": "電気電子情報工学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "三浦 颯太",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "応用化学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "八幡木 風香",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "都市生活学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "山田 悠楽",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "都市生活学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "山本 恭士",
+    "party": "syomen",
+    "gender": "man",
+    "subject": "環境経営システム学科",
+    "post": "----"
+  },
+  {
+    "age": "63",
+    "name": "横山 晴都",
+    "party": "syomen",
+    "gender": "man",
+    "subject": "知能情報工学科",
+    "post": "----"
+  },
+  {
+    "age": "62",
+    "name": "渡邊 志樹",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "都市工学科",
+    "post": "学年責任者"
+  },
+  {
+    "age": "62",
+    "name": "宇田川 明日香",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "情報システム学科",
+    "post": "学年責任者"
+  },
+  {
+    "age": "62",
+    "name": "上島 優",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "人間科学科",
+    "post": "道場管理"
+  },
+  {
+    "age": "62",
+    "name": "植竹 翔一",
+    "party": "syomen",
+    "gender": "man",
+    "subject": "機械システム工学科",
+    "post": "道場管理"
+  },
+  {
+    "age": "62",
+    "name": "上野 壮",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "電気電子通信工学科",
+    "post": "----"
+  },
+  {
+    "age": "62",
+    "name": "大川 翼",
+    "party": "syomen",
+    "gender": "man",
+    "subject": "人間科学科",
+    "post": "----"
+  },
+  {
+    "age": "62",
+    "name": "角山 一路",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "人間科学科",
+    "post": "合宿幹事"
+  },
+  {
+    "age": "62",
+    "name": "加藤 由康",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "医用工学科",
+    "post": "----"
+  },
+  {
+    "age": "62",
+    "name": "小八木 蒼良",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "社会メディア学科",
+    "post": "弦音編集"
+  },
+  {
+    "age": "62",
+    "name": "小山 奈々",
+    "party": "syomen",
+    "gender": "woman",
+    "subject": "自然科学科",
+    "post": "----"
+  },
+  {
+    "age": "62",
+    "name": "﨑田 諒太朗",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "環境創生学科",
+    "post": "----"
+  },
+  {
+    "age": "62",
+    "name": "佐藤 春希",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "応用化学科",
+    "post": "----"
+  },
+  {
+    "age": "62",
+    "name": "重村 陽菜",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "社会メディア学科",
+    "post": "合宿幹事"
+  },
+  {
+    "age": "62",
+    "name": "下坂 藍子",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "医用工学科",
+    "post": "合宿幹事"
+  },
+  {
+    "age": "62",
+    "name": "水田 さくら",
+    "party": "syomen",
+    "gender": "woman",
+    "subject": "機械システム工学科",
+    "post": "広報(SNS担当)"
+  },
+  {
+    "age": "62",
+    "name": "竹村 和樹",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "電気電子通信工学科",
+    "post": "----"
+  },
+  {
+    "age": "62",
+    "name": "谷口 佳祐",
+    "party": "syomen",
+    "gender": "man",
+    "subject": "情報科学科",
+    "post": "広報(ホームページ作成等)"
+  },
+  {
+    "age": "62",
+    "name": "中村 友香",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "建築学科",
+    "post": "----"
+  },
+  {
+    "age": "62",
+    "name": "西村 凌介",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "電気電子通信工学科",
+    "post": "弦音編集"
+  },
+  {
+    "age": "62",
+    "name": "廣井 航太郎",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "社会メディア学科",
+    "post": "広報(SNS担当)"
+  },
+  {
+    "age": "62",
+    "name": "松本 夏音",
+    "party": "syomen",
+    "gender": "woman",
+    "subject": "社会メディア学科",
+    "post": "----"
+  },
+  {
+    "age": "62",
+    "name": "三崎 裕生",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "機械システム工学科",
+    "post": "----"
+  },
+  {
+    "age": "62",
+    "name": "山本 彩華",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "人間科学科",
+    "post": "広報(SNS担当)"
+  },
+  {
+    "age": "62",
+    "name": "山本 航右",
+    "party": "syomen",
+    "gender": "man",
+    "subject": "医用工学科",
+    "post": "----"
+  },
+  {
+    "age": "61",
+    "name": "佐藤 蓮",
+    "party": "syomen",
+    "gender": "man",
+    "subject": "医用工学科",
+    "post": "主将"
+  },
+  {
+    "age": "61",
+    "name": "福地 雄晟",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "建築学科",
+    "post": "副将・主務"
+  },
+  {
+    "age": "61",
+    "name": "丸山 葵",
+    "party": "syomen",
+    "gender": "woman",
+    "subject": "情報科学科",
+    "post": "女子責任者"
+  },
+  {
+    "age": "61",
+    "name": "新田 桂一朗",
+    "party": "syomen",
+    "gender": "man",
+    "subject": "機械工学科",
+    "post": "主務"
+  },
+  {
+    "age": "61",
+    "name": "椎名 琉翔",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "社会メディア学科",
+    "post": "会計"
+  },
+  {
+    "age": "61",
+    "name": "中乗 優",
+    "party": "syomen",
+    "gender": "man",
+    "subject": "社会メディア学科",
+    "post": "----"
+  },
+  {
+    "age": "61",
+    "name": "中河 俊翼",
+    "party": "syomen",
+    "gender": "man",
+    "subject": "児童学科",
+    "post": "----"
+  },
+  {
+    "age": "61",
+    "name": "榊原 綾乃",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "都市生活学科",
+    "post": "体育会連絡員・弦音編集"
+  },
+  {
+    "age": "61",
+    "name": "三澤 大輝",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "情報科学科",
+    "post": "体育会連絡員"
+  },
+  {
+    "age": "61",
+    "name": "明東 奏吾",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "機械工学科",
+    "post": "----"
+  },
+  {
+    "age": "61",
+    "name": "直井 晃星",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "社会メディア学科",
+    "post": "道場管理"
+  },
+  {
+    "age": "61",
+    "name": "平田 稔",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "情報科学科",
+    "post": "合宿幹事"
+  },
+  {
+    "age": "61",
+    "name": "叶 椋一朗",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "医用工学科",
+    "post": "----"
+  },
+  {
+    "age": "61",
+    "name": "佐藤 直道",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "都市生活学科",
+    "post": "合宿幹事"
+  },
+  {
+    "age": "61",
+    "name": "佐藤 悠真",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "機械工学科",
+    "post": "弦音編集"
+  },
+  {
+    "age": "61",
+    "name": "山本 大智",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "情報科学科",
+    "post": "----"
+  },
+  {
+    "age": "61",
+    "name": "井上 智尋",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "都市生活学科",
+    "post": "合宿幹事"
+  },
+  {
+    "age": "60",
+    "name": "金子 真弥",
+    "party": "syomen",
+    "gender": "man",
+    "subject": "電気電子情報工学科",
+    "post": "----"
+  },
+  {
+    "age": "60",
+    "name": "山本 百々音",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "機械システム工学科",
+    "post": "----"
+  },
+  {
+    "age": "60",
+    "name": "二村 洋",
+    "party": "syamen",
+    "gender": "man",
+    "subject": "情報科学科",
+    "post": "----"
+  },
+  {
+    "age": "60",
+    "name": "井出 真朱",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "都市工学科",
+    "post": "----"
+  },
+  {
+    "age": "60",
+    "name": "大塚 彩月",
+    "party": "syamen",
+    "gender": "woman",
+    "subject": "環境創生学科",
+    "post": "----"
+  }
+]
